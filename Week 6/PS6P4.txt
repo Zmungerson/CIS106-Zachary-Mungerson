@@ -1,0 +1,9 @@
+Microwave
+4
+100
+Refridgerator 
+2
+500
+Dishwasher
+3
+350

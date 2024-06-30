@@ -1,0 +1,12 @@
+Mung
+I
+28
+Miller
+I
+12
+Swanson
+O
+18
+Valencia
+O
+20

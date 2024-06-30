@@ -1,0 +1,10 @@
+Mung
+30000
+Walters
+200000
+Patel
+50000
+Shoup
+70000
+Miller
+25000
